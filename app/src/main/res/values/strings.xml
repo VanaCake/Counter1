@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="zero">0</string>
+    <string name="title">|CupCake Clicker|</string>
+    <string name="add">Add Cupcake(s)</string>
+    <string name="reset">Reset Cupcakes</string>
+    <string name="ccMultiplier">Double Multiplier \n(Cost:100 Cupcakes)</string>
+    <string name="multiplier">Multiplier: x1</string>
+</resources>
